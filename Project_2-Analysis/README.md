@@ -3,7 +3,7 @@
 
 ## Introduction
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+As a fresh graduate entering the data field, I set out to analyze what skills top employers actually seek and how aspiring data professionals can align their strengths for better opportunities and pay.
 
 ### Questions to Analyze
 
